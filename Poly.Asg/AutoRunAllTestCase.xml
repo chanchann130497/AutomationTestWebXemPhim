@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AllSuite">
+	<test name="all-tests">
+		<packages>
+			<package name="AutoTestNG_Login" />
+			<package name="AutoTestNG_Regis" />
+			<package name="AutoTestNG_EditUser" />
+			<package name="AutoTestNG_EditVideo" />
+			<package name="AutoTestNG_ChangePassword"/>
+			<package name="AutoTestNG_ForgotPassword"/>
+		</packages>
+	</test>
+</suite>
+

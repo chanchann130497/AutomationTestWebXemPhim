@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-08T12:48:12 ICT" name="AllSuite" finished-at="2021-12-08T12:51:53 ICT" duration-ms="221107">
+    <groups>
+    </groups>
+    <test started-at="2021-12-08T12:48:12 ICT" name="all-tests" finished-at="2021-12-08T12:51:53 ICT" duration-ms="221107">
+      <class name="AutoTestNG_EditUser.RegisterUser">
+        <test-method is-config="true" signature="suiteTest()[pri:0, instance:AutoTestNG_EditUser.RegisterUser@385c9627]" started-at="2021-12-08T12:49:26 ICT" name="suiteTest" finished-at="2021-12-08T12:49:27 ICT" duration-ms="1098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTest -->
+        <test-method signature="testAdd()[pri:1, instance:AutoTestNG_EditUser.RegisterUser@385c9627]" started-at="2021-12-08T12:49:27 ICT" name="testAdd" description="Test Add User" finished-at="2021-12-08T12:49:41 ICT" duration-ms="13806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method signature="testUpdate()[pri:2, instance:AutoTestNG_EditUser.RegisterUser@385c9627]" started-at="2021-12-08T12:49:41 ICT" name="testUpdate" description="Test Update User" finished-at="2021-12-08T12:49:51 ICT" duration-ms="10451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdate -->
+        <test-method signature="testDelete()[pri:3, instance:AutoTestNG_EditUser.RegisterUser@385c9627]" started-at="2021-12-08T12:49:51 ICT" name="testDelete" description="Test Delete User" finished-at="2021-12-08T12:49:55 ICT" duration-ms="3165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelete -->
+        <test-method is-config="true" signature="suiteTearDown()[pri:0, instance:AutoTestNG_EditUser.RegisterUser@385c9627]" started-at="2021-12-08T12:49:55 ICT" name="suiteTearDown" finished-at="2021-12-08T12:49:55 ICT" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+      </class> <!-- AutoTestNG_EditUser.RegisterUser -->
+      <class name="AutoTestNG_ChangePassword.ChangePassword">
+        <test-method is-config="true" signature="suiteTest()[pri:0, instance:AutoTestNG_ChangePassword.ChangePassword@233795b6]" started-at="2021-12-08T12:51:07 ICT" name="suiteTest" finished-at="2021-12-08T12:51:08 ICT" duration-ms="1154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTest -->
+        <test-method signature="testChangePassword()[pri:0, instance:AutoTestNG_ChangePassword.ChangePassword@233795b6]" started-at="2021-12-08T12:51:08 ICT" name="testChangePassword" finished-at="2021-12-08T12:51:33 ICT" duration-ms="24921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChangePassword -->
+        <test-method is-config="true" signature="suiteTearDown()[pri:0, instance:AutoTestNG_ChangePassword.ChangePassword@233795b6]" started-at="2021-12-08T12:51:33 ICT" name="suiteTearDown" finished-at="2021-12-08T12:51:33 ICT" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+      </class> <!-- AutoTestNG_ChangePassword.ChangePassword -->
+      <class name="AutoTestNG_EditVideo.CRUDVideo">
+        <test-method is-config="true" signature="suiteTest()[pri:0, instance:AutoTestNG_EditVideo.CRUDVideo@217ed35e]" started-at="2021-12-08T12:49:55 ICT" name="suiteTest" finished-at="2021-12-08T12:49:56 ICT" duration-ms="1131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTest -->
+        <test-method signature="testAdd()[pri:1, instance:AutoTestNG_EditVideo.CRUDVideo@217ed35e]" started-at="2021-12-08T12:49:56 ICT" name="testAdd" description="Test Add Video" finished-at="2021-12-08T12:50:30 ICT" duration-ms="34316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method signature="testUpdate()[pri:2, instance:AutoTestNG_EditVideo.CRUDVideo@217ed35e]" started-at="2021-12-08T12:50:30 ICT" name="testUpdate" description="Test Update Video" finished-at="2021-12-08T12:50:57 ICT" duration-ms="27002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdate -->
+        <test-method signature="testDelete()[pri:3, instance:AutoTestNG_EditVideo.CRUDVideo@217ed35e]" started-at="2021-12-08T12:50:57 ICT" name="testDelete" description="Test Delete Video" finished-at="2021-12-08T12:51:06 ICT" duration-ms="9191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelete -->
+        <test-method is-config="true" signature="suiteTearDown()[pri:0, instance:AutoTestNG_EditVideo.CRUDVideo@217ed35e]" started-at="2021-12-08T12:51:06 ICT" name="suiteTearDown" finished-at="2021-12-08T12:51:07 ICT" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+      </class> <!-- AutoTestNG_EditVideo.CRUDVideo -->
+      <class name="AutoTestNG_ForgotPassword.ForgotPassword">
+        <test-method is-config="true" signature="suiteTest()[pri:0, instance:AutoTestNG_ForgotPassword.ForgotPassword@3eb738bb]" started-at="2021-12-08T12:51:33 ICT" name="suiteTest" finished-at="2021-12-08T12:51:34 ICT" duration-ms="1328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTest -->
+        <test-method signature="testForgotPassword()[pri:0, instance:AutoTestNG_ForgotPassword.ForgotPassword@3eb738bb]" started-at="2021-12-08T12:51:34 ICT" name="testForgotPassword" finished-at="2021-12-08T12:51:52 ICT" duration-ms="18325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForgotPassword -->
+        <test-method is-config="true" signature="suiteTearDown()[pri:0, instance:AutoTestNG_ForgotPassword.ForgotPassword@3eb738bb]" started-at="2021-12-08T12:51:52 ICT" name="suiteTearDown" finished-at="2021-12-08T12:51:53 ICT" duration-ms="586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+      </class> <!-- AutoTestNG_ForgotPassword.ForgotPassword -->
+      <class name="AutoTestNG_Regis.RegisTest">
+        <test-method is-config="true" signature="suiteTest()[pri:0, instance:AutoTestNG_Regis.RegisTest@6989da5e]" started-at="2021-12-08T12:48:50 ICT" name="suiteTest" finished-at="2021-12-08T12:48:51 ICT" duration-ms="1069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTest -->
+        <test-method signature="RegisTest()[pri:1, instance:AutoTestNG_Regis.RegisTest@6989da5e]" started-at="2021-12-08T12:48:51 ICT" name="RegisTest" description="Test Registration" finished-at="2021-12-08T12:49:25 ICT" duration-ms="34572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisTest -->
+        <test-method is-config="true" signature="suiteTearDown()[pri:0, instance:AutoTestNG_Regis.RegisTest@6989da5e]" started-at="2021-12-08T12:49:25 ICT" name="suiteTearDown" finished-at="2021-12-08T12:49:26 ICT" duration-ms="844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+      </class> <!-- AutoTestNG_Regis.RegisTest -->
+      <class name="AutoTestNG_Login.LoginTest">
+        <test-method is-config="true" signature="suiteTest()[pri:0, instance:AutoTestNG_Login.LoginTest@5b12b668]" started-at="2021-12-08T12:48:12 ICT" name="suiteTest" finished-at="2021-12-08T12:48:15 ICT" duration-ms="2878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTest -->
+        <test-method signature="LoginTest()[pri:1, instance:AutoTestNG_Login.LoginTest@5b12b668]" started-at="2021-12-08T12:48:15 ICT" name="LoginTest" description="Test Login" finished-at="2021-12-08T12:48:49 ICT" duration-ms="34041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="suiteTearDown()[pri:0, instance:AutoTestNG_Login.LoginTest@5b12b668]" started-at="2021-12-08T12:48:49 ICT" name="suiteTearDown" finished-at="2021-12-08T12:48:50 ICT" duration-ms="855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+      </class> <!-- AutoTestNG_Login.LoginTest -->
+    </test> <!-- all-tests -->
+  </suite> <!-- AllSuite -->
+</testng-results>

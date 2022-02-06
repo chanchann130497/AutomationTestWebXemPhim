@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/edu/poly/admin/servlet/UsersManagementServlet.java=UTF-8
+encoding//src/main/java/edu/poly/site/servlet/ForgotPasswordServlet.java=UTF-8
+encoding//src/main/java/edu/poly/site/servlet/ShareVideoServlet.java=UTF-8
+encoding//src/main/webapp/sites/home/home.jsp=UTF-8
+encoding//src/main/webapp/sites/layout.jsp=UTF-8
+encoding//src/test/java/TestRegister/RegisterTest.java=UTF-8
+encoding/<project>=UTF-8
